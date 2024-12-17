@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/NEO/Documents/Github/EmbarcaTech/EmbarcaTech/Exemplos",
-      "program": "c:/Users/NEO/Documents/Github/EmbarcaTech/EmbarcaTech/Exemplos/build/Debug/outDebug",
+      "cwd": "c:/Users/NEO/Documents/Github/EmbarcaTech/EmbarcaTech/Atividades",
+      "program": "c:/Users/NEO/Documents/Github/EmbarcaTech/EmbarcaTech/Atividades/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
